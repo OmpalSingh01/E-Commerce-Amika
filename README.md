@@ -133,9 +133,9 @@ Open a Pull Request
 
 # 🙏 Acknowledgements
 
-Inspired by real-world flower e-commerce platforms
+1. Inspired by real-world flower e-commerce platforms
 
-Open-source icons, libraries, and frameworks
+2. Open-source icons, libraries, and frameworks
 
 ---
 
