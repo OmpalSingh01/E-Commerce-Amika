@@ -96,9 +96,9 @@ index.html
 
  # 📬 Contact
 
-📧 Email: support@amikaflowershop.com
+📧 Email: support@amikaflowershop.com ; rheniumgroup@gmail.com
 
-📞 Phone: +1 (123) 456-7890
+📞 Phone: 723382XXXX
 
 🌐 Website: Amika Flower Shop
 
