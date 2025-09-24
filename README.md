@@ -21,12 +21,12 @@
     <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
-
+---
 🌼 About the Project
 
 Amika Flower Shop is a modern E-Commerce Website for all flower enthusiasts 🌷.
 It provides a beautiful shopping experience, making it easy to order flowers for weddings, birthdays, anniversaries, and special moments.
-
+---
 ✨ Features
 
 🌼 Extensive Collection: Browse roses, lilies, tulips, orchids, and more.
@@ -46,7 +46,7 @@ It provides a beautiful shopping experience, making it easy to order flowers for
 🛒 Shopping Cart & Checkout: Smooth order management and tracking.
 
 
-
+---
 
 🖼️ Screenshots
 
@@ -54,10 +54,10 @@ It provides a beautiful shopping experience, making it easy to order flowers for
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | ![Home](https://github.com/OmpalSingh01/E-Commerce-Amika/assets/155239610/05ac346a-c01f-4429-b3af-aacc511ab2e8) | ![Products](https://github.com/OmpalSingh01/E-Commerce-Amika/assets/155239610/5071add9-4edf-4e5b-9e58-a909a5aa7997) | ![AboutUs](https://github.com/OmpalSingh01/E-Commerce-Amika/assets/155239610/1356bb99-8a9d-4f2a-bd9b-a74f074fae8) | ![ContactUs](https://github.com/OmpalSingh01/E-Commerce-Amika/assets/155239610/c542da8b-d5be-4b7c-988b-ecf0e4ff9d18) |
 
-
+---
 🛠️ Tech Stack
-<p align="left"> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" /> </p>
-
+<p align="left"> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
+---
 🚀 Getting Started
 
 # Clone the repository
@@ -68,20 +68,20 @@ cd E-Commerce-Amika
 
 # Open in browser
 index.html
-
+---
 🛣️ Roadmap
  Responsive UI
 
- Product pages
+✅ Product pages
 
- User login / signup
+✅ User login / signup
 
- Wishlist & Favorites
+🔃 Wishlist & Favorites
 
- Secure Payment Gateway
+🔃 Secure Payment Gateway
 
- Admin Dashboard
-
+🔃 Admin Dashboard
+---
  📬 Contact
 
 📧 Email: support@amikaflowershop.com
@@ -93,11 +93,11 @@ index.html
 📸 Instagram: @amikaflowers
 
 🌸 Facebook: Amika Flower Shop
-
+---
 📜 License
 
 This project is licensed under the MIT License – free to use & modify.
-
+---
 🤝 Contributing
 
 Contributions are welcome! 🎉
@@ -111,13 +111,13 @@ Commit changes (git commit -m 'Add feature')
 Push (git push origin feature-name)
 
 Open a Pull Request
-
+---
 🙏 Acknowledgements
 
 Inspired by real-world flower e-commerce platforms
 
 Open-source icons, libraries, and frameworks
-
+---
 🌟 Additional Badges
 <p align="center"> <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Open%20for-Contributions-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Author-Mohit%20Singh-blue?style=for-the-badge" /> </p>
 
