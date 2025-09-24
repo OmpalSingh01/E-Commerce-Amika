@@ -117,7 +117,7 @@ This project is licensed under the MIT License – free to use & modify.
 # 🤝 Contributing
 
 Contributions are welcome! 🎉
-
+```
 Fork the repository
 
 Create a branch (git checkout -b feature-name)
@@ -127,6 +127,7 @@ Commit changes (git commit -m 'Add feature')
 Push (git push origin feature-name)
 
 Open a Pull Request
+```
 
 ---
 
