@@ -16,21 +16,21 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-#🌍 Live Demo
+# 🌍 Live Demo
   <a href="https://your-live-demo-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
 ---
 
-#🌼 About the Project
+# 🌼 About the Project
 
 Amika Flower Shop is a modern E-Commerce Website for all flower enthusiasts 🌷.
 It provides a beautiful shopping experience, making it easy to order flowers for weddings, birthdays, anniversaries, and special moments.
 
 ---
 
-#✨ Features
+# ✨ Features
 
 🌼 Extensive Collection: Browse roses, lilies, tulips, orchids, and more.
 
@@ -51,7 +51,7 @@ It provides a beautiful shopping experience, making it easy to order flowers for
 
 ---
 
-#🖼️ Screenshots
+# 🖼️ Screenshots
 
 | Home Page                                                                                                       | Products                                                                                                            | About Us                                                                                                          | Contact Us                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -59,7 +59,7 @@ It provides a beautiful shopping experience, making it easy to order flowers for
 
 ---
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 <p align="left"> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
 
 ---
@@ -78,7 +78,7 @@ index.html
 
 ---
 
-#🛣️ Roadmap
+# 🛣️ Roadmap
 
 ✅ Responsive UI
 
@@ -94,7 +94,7 @@ index.html
 
 ---
 
- #📬 Contact
+ # 📬 Contact
 
 📧 Email: support@amikaflowershop.com
 
@@ -107,14 +107,14 @@ index.html
 🌸 Facebook: Amika Flower Shop
 
 ---
-
-#📜 License
+ 
+# 📜 License
 
 This project is licensed under the MIT License – free to use & modify.
 
 ---
 
-#🤝 Contributing
+# 🤝 Contributing
 
 Contributions are welcome! 🎉
 
@@ -130,7 +130,7 @@ Open a Pull Request
 
 ---
 
-#🙏 Acknowledgements
+# 🙏 Acknowledgements
 
 Inspired by real-world flower e-commerce platforms
 
@@ -138,8 +138,8 @@ Open-source icons, libraries, and frameworks
 
 ---
 
-#🌟 Additional Badges
+# 🌟 Additional Badges
 <p align="center"> <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Open%20for-Contributions-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Author-Mohit%20Singh-blue?style=for-the-badge" /> </p>
 
-#💐 Bringing happiness, one flower at a time. 🌸
+# 💐 Bringing happiness, one flower at a time. 🌸
 
