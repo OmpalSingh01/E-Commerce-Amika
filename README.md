@@ -17,7 +17,7 @@
 </p>
 
 # 🌍 Live Demo
-  <a href=["https://your-live-demo-link.com](https://ompalsingh01.github.io/E-Commerce-Amika/)" target="_blank">
+  <a href="https://ompalsingh01.github.io/E-Commerce-Amika/" target="_blank">
     <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
